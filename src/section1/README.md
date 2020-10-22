@@ -1,1 +1,0 @@
-This program will print all of the prime numbers between 1 and 100. 
